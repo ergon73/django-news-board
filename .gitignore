@@ -38,3 +38,6 @@ Thumbs.db
 
 # Cursor
 .cursor/
+.cursorrules
+genai-readme.md
+human-readme.md
